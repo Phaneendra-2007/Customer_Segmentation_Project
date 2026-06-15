@@ -1,0 +1,52 @@
+CUSTOMER SEGMENTATION USING K-MEANS CLUSTERING
+
+1. INTRODUCTION
+
+Customer segmentation is the process of dividing customers into groups based on their purchasing behavior. Businesses use segmentation to improve marketing strategies and customer satisfaction.
+
+2. OBJECTIVE
+
+• Understand customer data
+• Apply clustering techniques
+• Identify customer groups
+
+3. DATASET DESCRIPTION
+
+The dataset contains:
+• Customer ID
+• Gender
+• Age
+• Annual Income
+• Spending Score
+
+4. METHODOLOGY
+
+Step 1: Data Collection
+
+Step 2: Data Preprocessing
+
+Step 3: Feature Selection
+
+Step 4: K-Means Clustering
+
+Step 5: Cluster Visualization
+
+Step 6: Result Analysis
+
+5. RESULTS
+
+Five customer groups were identified:
+
+• High Income – High Spending
+• High Income – Low Spending
+• Medium Income – Medium Spending
+• Low Income – High Spending
+• Low Income – Low Spending
+
+6. BUSINESS INSIGHTS
+
+Customer segmentation helps businesses target customers more effectively and improve marketing decisions.
+
+7. CONCLUSION
+
+K-Means clustering successfully grouped customers according to their purchasing behavior.
